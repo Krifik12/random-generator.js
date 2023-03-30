@@ -1,5 +1,9 @@
 # easy-generator.js
-Документація для бібліотеки easy-generator.js
+- npm install easy-generator.js
+- Документація для пакета easy-generator.js
+- Розробник Krifik
+- Діскорд Krifik#4967
+- Телеграм @Krifik6
 
 # Приклад номер 1 
 ```javascript
